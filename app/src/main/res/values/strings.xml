@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Assesment1</string>
+    <string name="app_name">Check It Off</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Check It Off merupakan sebuah aplikasi Android untuk
+    mengatur setiap tugas atau kegiatan yang harus diselesaikan. Aplikasi ini
+    membantu Anda untuk lebih produktif setiap harinya. \n\nCopyright © 2021 - 2024 Fretty Simamora.
+        \nAll rights reserved.</string>
+    <string name="kembali">Kembali</string>
+    <string name="list_kosong">Belum ada data.</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_todolist">Tambah to do list</string>
+    <string name="judul">Judul</string>
+    <string name="priority">Prioritas Tugas</string>
+    <string name="deadline">Batas Pengumpulan</string>
+    <string name="isi_tugas">Isi Tugas</string>
+    <string name="back">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit">Edit to do list</string>
+    <string name="delete">Hapus</string>
+    <string name="share">Bagikan</string>
 </resources>
